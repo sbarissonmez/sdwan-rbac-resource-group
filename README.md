@@ -11,8 +11,6 @@ Resource Groups are groupings of resources based on continents/countries/regions
 ![image](./Feature_Overview_1.png)
 
 ![image](./Feature_Overview_2.png)
-
-<br>
 ## Demo Lab Topology
 <br>
 ![image](./Demo_Lab_Topology.png)
