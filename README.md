@@ -13,9 +13,8 @@ Resource Groups are groupings of resources based on continents/countries/regions
 ![image](./Feature_Overview_2.png)
 ## Demo Lab Topology
 <br>
+
 ![image](./Demo_Lab_Topology.png)
-
-
 ## Requirements
 
     Python 3.8+
