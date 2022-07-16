@@ -1,10 +1,7 @@
 # RBAC based on Resource Groups feature using APIs
 <br>
 
-## Feature Overview
-<br>
-
-## Role-Based Access Control Groups
+## Role-Based Access Control Groups Feature Overview
 
 For large SD-WAN deployments, this feature helps to simplify the network administration, restrict blast perimeter, and meet compliance requirements.
 <br>
