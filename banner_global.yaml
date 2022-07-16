@@ -1,0 +1,5 @@
+template_name: 'vedge_cloud_banner_global'
+template_description: 'vedge_cloud_banner - Global'
+login_banner: 'test_yaml_banner_login - Global'
+motd_banner: 'test_yaml_banner_motd_global'
+device_type: 'vedge-cloud'

@@ -1,0 +1,5 @@
+template_name: 'vedge_cloud_banner_amercas'
+template_description: 'vedge_cloud_banner - Americas'
+login_banner: 'test_yaml_banner_login - Americas'
+motd_banner: 'test_yaml_banner_motd_amer'
+device_type: 'vedge-cloud'
