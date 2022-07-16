@@ -334,7 +334,7 @@ Observe that only devices in APJC resource group are accessible.
 Devices in Global resource group are also visible, APJC resource group user can only view these devices, but cannot perform any operations on them.
 
 
-### Resoruce Group Admin Americas: View Devices list
+### Resource Group Admin Americas: View Devices list
 
       ./sdwan_rbac_resource_groups.py device-list-user --username admin_amer --password admin_amer_pass
 
@@ -399,7 +399,7 @@ Observe that all feature templates can be seen.
 Has full access (edit).
 
 
-### Resoruce Group Admin APJC: View list of Feature Templates 
+### Resource Group Admin APJC: View list of Feature Templates 
 (Resource Group, createdBy, updateBy)
 
       ./sdwan_rbac_resource_groups.py get-nd-ft-user --username admin_apjc --password admin_apjc_pass
@@ -431,7 +431,7 @@ Observe that all feature templates in Global Resource Group can be seen.
 Has Read-only access to these templates.
 
 
-### Resoruce Group Admin Americas: View list of Feature Templates 
+### Resource Group Admin Americas: View list of Feature Templates 
 (Resource Group, createdBy, updateBy)
 
       ./sdwan_rbac_resource_groups.py get-nd-ft-user --username admin_amer --password admin_amer_pass
@@ -467,7 +467,7 @@ Has Read-only access to these templates.
 
 ## Create Templates as Resource Group Admins and Global Admin, Verify
 
-### Resoruce Group Admin APJC: Create a Banner Feature Template, Verify
+### Resource Group Admin APJC: Create a Banner Feature Template, Verify
 
       ./sdwan_rbac_resource_groups.py create-banner-ft-user --file banner_apjc.yaml --username admin_apjc --password admin_apjc_pass
 
@@ -514,7 +514,7 @@ All feature templates in Global Resource Group can be seen, Has Read-only access
 All feature templates in Resource Group APJC can also be seen, Has full access (edit).
 
 
-### Resoruce Group Admin Americas: Create a Banner Feature Template, Verify
+### Resource Group Admin Americas: Create a Banner Feature Template, Verify
 
       ./sdwan_rbac_resource_groups.py create-banner-ft-user --file banner_amer.yaml --username admin_amer --password admin_amer_pass
 
