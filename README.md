@@ -1,6 +1,5 @@
 # RBAC based on Resource Groups feature using APIs
 <br>
-
 ## Role-Based Access Control Groups Feature Overview
 
 For large SD-WAN deployments, this feature helps to simplify the network administration, restrict blast perimeter, and meet compliance requirements.
@@ -15,10 +14,8 @@ Resource Groups are groupings of resources based on continents/countries/regions
 ![image](./Feature_Overview_2.png)
 
 <br>
-
 ## Demo Lab Topology
 <br>
-
 ![image](./Demo_Lab_Topology.png)
 
 
@@ -42,7 +39,6 @@ Install python package requirements:
         pip install -r requirements.txt
 
 ## Environment variables
-
 <br>
 export vmanage_host=IP/FQDN <br>
 export vmanage_port=port <br>
