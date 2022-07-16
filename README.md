@@ -303,7 +303,7 @@ Python script to execute below REST API calls for showcasing the RBAC based on R
 Observe that all Devices are accessible.
 
 
-### Resoruce Group Admin APJC: View Devices list
+### Resource Group Admin APJC: View Devices list
 
       ./sdwan_rbac_resource_groups.py device-list-user --username admin_apjc --password admin_apjc_pass
 
